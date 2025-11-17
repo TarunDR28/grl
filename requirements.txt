@@ -4,4 +4,4 @@ python-docx==0.8.11
 docxtpl==0.16.0
 openai==1.29.0
 python-dotenv==1.0.1
-Pillow==9.6.0
+Pillow>=11.0.0
